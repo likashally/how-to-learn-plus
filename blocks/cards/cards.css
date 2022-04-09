@@ -1,14 +1,9 @@
 .cards {
   display: flex;
-
   width: 920px;
-  padding:0;
+  padding: 0;
   margin: 0;
   list-style-type: none;
   flex-wrap: wrap;
-  justify-content: center;
-
-  gap: 40px;
-  align-content: center;
+  justify-content: flex-start;
 }
-
